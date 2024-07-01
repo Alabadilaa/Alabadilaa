@@ -10,7 +10,7 @@
 🌱  I am currently learning backend development frameworks like Spring and exploring various ERP tools.<br>
 💡  Additionally, I am improving my project management skills through learning about Lean and Agile methodologies, SCRUM, PMBOK, BABOK...<br>
 📚  In my free time, I enjoy problem-solving, reading books, watching movies, and working out at the gym.<br>
-📫  Reach me at: <b>alabadila.malai1@gmail.com</b>
+
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">

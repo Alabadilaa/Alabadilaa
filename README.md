@@ -39,6 +39,7 @@
 [![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
 [![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=6DB33F)](https://spring.io/)
 [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/)
+[![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios&logoColor=blue)](https://axios-http.com/)
 
 #### Data Related Libraries
 [![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)](https://pytorch.org/)

@@ -45,6 +45,8 @@
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)](https://keras.io/)
 [![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)](https://pandas.pydata.org/)
+[![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat&logo=nltk&logoColor=blue)](https://www.nltk.org/)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org/)
 
 #### Databases
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](https://www.mysql.com/)

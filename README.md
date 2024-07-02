@@ -35,6 +35,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)](https://getbootstrap.com/)
+[![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
 [![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=6DB33F)](https://spring.io/)
 [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/)
 
